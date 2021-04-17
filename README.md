@@ -1,2 +1,2 @@
 # smartglassy-demo-foi
- Demo apps set used to perform remote assistance call between Angular web app and Augmented Reality glasses (Vuzix M400/Google Glass) app (Android) using WebRTC and Microsoft SignalR (for FOI)
+The remote assistance solution for connecting Android based Augmented Reality (AR) glasses (Google Glass, Vuzix M400, etc.) and Angular web app using WebRTC and Microsoft SignalR (for FOI demo)
