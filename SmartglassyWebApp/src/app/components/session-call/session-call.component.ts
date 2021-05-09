@@ -55,7 +55,7 @@ export class SessionCallComponent implements OnInit, OnDestroy {
 
   defineSignaling(): void {
     this.signaling.define('log', (message: any) => {
-      console.log();
+      console.log(message);
     });
 
     this.signaling.define('created', () => {

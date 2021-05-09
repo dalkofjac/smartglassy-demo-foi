@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HubConnection, HubConnectionBuilder, HubConnectionState, IHttpConnectionOptions } from '@microsoft/signalr';
+import { HubConnection, HubConnectionBuilder, HubConnectionState } from '@microsoft/signalr';
 import { environment } from 'src/environments/environment';
 
 @Injectable({
