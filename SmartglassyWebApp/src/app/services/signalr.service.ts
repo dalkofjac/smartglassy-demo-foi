@@ -9,7 +9,7 @@ export class SignalrService {
 
   private baseUrl: string = environment.signalingServerUrl;
 
-  private hubConnection: HubConnection | undefined;
+  private hubConnection: HubConnection;
 
   constructor() { }
 
